@@ -17,3 +17,14 @@
     height: 200%;
     width: 100%;
    }
+   faceup,
+   .facedown {
+    height: 50%;
+   }
+   .facedown {
+    background-color: lightGray;
+   }
+   .faceup {
+    background-color: coral;
+   }
+   
